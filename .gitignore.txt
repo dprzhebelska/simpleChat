@@ -1,0 +1,8 @@
+ClientConsole.class
+EchoServer.class
+ServerConsole.class
+index.html
+.classpath
+.project
+common/ChatIF.class
+client/ChatClient.class
